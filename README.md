@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **YashPimpalkar/YashPimpalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-👋 Hello, fellow developers! <br>      I'm Yash Pimpalkar, <br>      passionate about full-stack development. <br>     With a knack for crafting clean and efficient code,<br>     I'm always eager to collaborate on innovative projects. <br>     Here, you'll find repositories that reflect my journey <br>     and growth in the tech realm. <br>     Let's build something awesome together! 💡<br><br>
+### Hi there 👋<br>, fellow developers! <br>      I'm Yash Pimpalkar, <br>      passionate about full-stack development. <br>     With a knack for crafting clean and efficient code,<br>     I'm always eager to collaborate on innovative projects. <br>     Here, you'll find repositories that reflect my journey <br>     and growth in the tech realm. <br>     Let's build something awesome together! 💡<br><br>
 
 
 ## 🌐 Socials:
