@@ -45,8 +45,6 @@ Let's build something **awesome together**! 💡🚀
 ## 📝 Random Developer Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🐍 GitHub Contribution Snake
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/49a2b9ee-bb9b-40e4-a368-e53379d1d4a6)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yashpimpalkar&icon=0&color=0)](https://visitcount.itsvg.in)
