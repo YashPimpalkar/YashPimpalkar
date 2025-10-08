@@ -15,18 +15,6 @@ Let’s build something **awesome together!** 💡🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashpimpalkar)  
 
 ---
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=plastic&logo=api&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)
-
-
-
 ## 💻 Tech Stack
 
 ### 🟢 Languages
@@ -54,13 +42,16 @@ Let’s build something **awesome together!** 💡🚀
 ![Zeplin](https://img.shields.io/badge/Zeplin-%2367C2EF.svg?style=flat&logo=zeplin&logoColor=white)
 
 ### 🟢 Backend
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=flat&logo=graphql&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat&logo=api&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=plastic&logo=api&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)
+
 
 ### 🟢 Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
