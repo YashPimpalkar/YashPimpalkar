@@ -52,7 +52,6 @@ Let's build something **awesome together**! 💡🚀
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 ![Zeplin](https://img.shields.io/badge/Zeplin-%2367C2EF.svg?style=flat&logo=zeplin&logoColor=white)
 
 ## 🟢 Backend
@@ -73,6 +72,7 @@ Let's build something **awesome together**! 💡🚀
 ![DevOps](https://img.shields.io/badge/DevOps-%23007ACC.svg?style=flat&logo=azuredevops&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 
 ## 🟢 Tools & Others
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) 
