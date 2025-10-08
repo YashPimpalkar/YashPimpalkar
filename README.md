@@ -33,7 +33,6 @@ Let’s build something **awesome together!** 💡🚀
 
 ### 🟢 Frontend
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![GSAP](https://img.shields.io/badge/GSAP-%23000000.svg?style=flat&logo=greensock&logoColor=00FF00) 
